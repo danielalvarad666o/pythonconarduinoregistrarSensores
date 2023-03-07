@@ -1,0 +1,10 @@
+[
+     {
+          "id": 0,
+          "nombre": "distanciador",
+          "tipo": "Distancia",
+          "ubicacion": "sala",
+          "descripcion": "protege la entrada del perro",
+          "fecha": "2023-03-06 13:41:16"
+     }
+]
